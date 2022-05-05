@@ -1,7 +1,12 @@
-### Hi there 👋
+### Opa, meu nome é Lucas Vicenti 👋
 
 
-**LucasVicenti12/LucasVicenti12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/LucasVicenti12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVicenti12&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=0px"
+       />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVicenti12&layout=compact&langs_count=7&theme=synthwave&border_radius=0px"/>
+</div>
 
 Here are some ideas to get you started:
 
