@@ -1,10 +1,14 @@
 ### Opa, meu nome é Lucas Vicenti 👋
 
+###Sobre mim
+
 
 - 🔭 Atualmente não trabalho na área, mas estou em busca disso
 - 🌱 Atualmente estou estudando HTML, CSS, PHP e JavaScript
 - 📫 Se quiser entrar em comigo, me mande um email, vou ficar muito feliz em responder: lucasvicenti60@gmail.com
 - ⚡ Possuo conhecimento em JAVA e mySQL
+
+
 
 <div align="center">
   <a href="https://github.com/LucasVicenti12">
