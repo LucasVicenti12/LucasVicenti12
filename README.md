@@ -1,6 +1,6 @@
 ### Opa, meu nome é Lucas Vicenti 👋
 
-###Sobre mim
+### Sobre mim
 
 
 - 🔭 Atualmente não trabalho na área, mas estou em busca disso
