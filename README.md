@@ -4,9 +4,10 @@
 
 
 - 🔭 Atualmente não trabalho na área, mas estou em busca disso
-- 🌱 Atualmente estou estudando HTML, CSS, PHP e JavaScript
+- 🌱 Estou estudando HTML, CSS, PHP e JavaScript
 - 📫 Se quiser entrar em comigo, me mande um email, vou ficar muito feliz em responder: lucasvicenti60@gmail.com
-- ⚡ Possuo conhecimento em JAVA e mySQL
+- ⚡ Possuo conhecimento em banse da dados mySQL
+- 🧠 Minha linguagem principal é JAVA
 
 
 
