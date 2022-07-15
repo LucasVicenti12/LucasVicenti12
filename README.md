@@ -4,16 +4,16 @@
 
 
 - 🔭 Atualmente não trabalho na área, mas estou em busca disso
-- 🌱 Estou estudando HTML, CSS, PHP e JavaScript
-- 📫 Se quiser entrar em comigo, me mande um email, vou ficar muito feliz em responder: lucasvicenti60@gmail.com
-- ⚡ Possuo conhecimento em banco da dados mySQL
+- 🌱 Possuo conhecimento em HTML, CSS, PHP e JavaScript
+- ⚡ Possuo conhecimento em linguagem de banco da dados ralacional mySQL e SQlite
 - 🧠 Minha linguagem principal é JAVA
+- 📫 Se quiser entrar em comigo, me mande um email, vou ficar muito feliz em responder: lucasvicenti60@gmail.com
 
 
 
 <div align="center">
   <a href="https://github.com/LucasVicenti12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVicenti12&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=0px"
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasVicenti12&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=0px"
        />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVicenti12&layout=compact&langs_count=7&theme=synthwave&border_radius=0px"/>
 </div>
