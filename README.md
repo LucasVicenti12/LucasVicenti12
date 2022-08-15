@@ -9,7 +9,7 @@
 - ⚡ Possuo conhecimento em linguagem de banco da dados ralacional mySQL e SQlite
 - 🧠 Minha linguagem principal é JAVA
 - 📫 Se quiser entrar em comigo, me mande um email, vou ficar muito feliz em responder: lucasvicenti60@gmail.com </br>
-- 😁 Meu site: https://lucasvicenti12.github.io/Meu-Site/
+- 😁 Meu site: https://lucasvicenti12.github.io/Meu-Novo-Site/
 
 
 
