@@ -3,11 +3,9 @@
 ### Sobre mim
 
 
-- 🔭 Atualmente não trabalho na área, mas estou em busca disso
-- 🌱 Possuo conhecimento em HTML, CSS, PHP, JavaScript, React e Nodejs
-- 💖 Atualmente estou estudando Dart utilizando framework flutter para desenvolvimento mobile
-- ⚡ Possuo conhecimento em linguagem de banco da dados relacional mySQL e SQlite
-- 🧠 Minha linguagem principal é JAVA
+- 🔭 Assistente de desenvolvimento
+- 🌱 Possuo conhecimento em HTML, CSS, JavaScript, Java, React e Nodejs
+- ⚡ Possuo conhecimento em linguagem de banco da dados relacional sql
 - 📫 Se quiser entrar em comigo, me mande um email, vou ficar muito feliz em responder: lucasvicenti60@gmail.com </br>
 - 😁 Meu site: https://lucasvicenti12.github.io/Meu-Novo-Site/
 
