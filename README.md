@@ -7,7 +7,7 @@
 - 🤠 Ja mexi com tudo um pouco, mas atualmente estou estou focado com desenvolvimwento web utilizando Spring-react
 - 🌱 Possuo conhecimento em HTML, CSS, JavaScript, Java, React e linguagens de banco da dados relacional sql
 - 📫 Se quiser entrar em comigo, me mande um email, vou ficar muito feliz em responder: lucasvicenti60@gmail.com </br>
-- 😁 Meu site (não reesponsivo, desatualizado): https://lucasvicenti12.github.io/Meu-Novo-Site/
+- 😁 Meu site (não responsivo, desatualizado): https://lucasvicenti12.github.io/Meu-Novo-Site/
 
 
 
