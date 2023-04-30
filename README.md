@@ -31,6 +31,6 @@
   <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="SPRING-BOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="INTELLIJ" src="https://img.icons8.com/fluency/96/null/intellij-idea.png"/>
+  <img align="center" alt="INTELLIJ" height="30" width="40" src="https://img.icons8.com/fluency/96/null/intellij-idea.png"/>
           
   </div>
