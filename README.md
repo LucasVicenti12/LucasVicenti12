@@ -9,7 +9,7 @@
 - 📺 Frontend: html, css, javascript and development with react
 - 🎲 Knowledge in relational database: SQLite, Microsoft SQL server management and MySQL
 - 📫 If you want to contact me, send me an email, I'll be happy to answer: lucasvicenti60@gmail.com </br>
-- 😁 My website (not responsive and out of date): <a href="https://lucasvicenti12.github.io/Meu-Novo-Site/" target="_blak"> https://lucasvicenti12.github.io/Meu-Novo-Site/</a>
+- 😁 My website (not responsive and out of date): https://lucasvicenti12.github.io/Meu-Novo-Site/
 
 
 
