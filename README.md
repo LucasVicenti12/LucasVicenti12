@@ -2,7 +2,7 @@
 
 > ### About me 😎
 >
-> - I'm from Blumenau - SC. However, I live in Gaspar (neighboring city) </br>
+> - I'm from Gaspar - SC. </br>
 > - I currently work as a development assistant at Lince Tech in Gaspar, working as a full stack web developer in Java on an ERP system. </br>
 > - In my daily life, I use Java 11 (servlet), javascript, html, css and MS Sql technologies. </br>
 > - I also have work using SpringBoot (java and kotlin) and React.js technologies </br>
